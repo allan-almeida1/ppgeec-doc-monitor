@@ -11,6 +11,7 @@ permissions:
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
+    environment: Email
 
     steps:
       - name: Checkout repo
