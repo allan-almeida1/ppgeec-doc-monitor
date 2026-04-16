@@ -16,7 +16,7 @@ def main():
 
         # Check for fresh news
         old_ids = {n.id for n in saved_news}
-        new_items = [n for n in news if n.id in old_ids]
+        new_items = [n for n in news if n.id not in old_ids]
 
         if new_items:
             news_list = ""
