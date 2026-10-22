@@ -1,5 +1,11 @@
 [
     {
+        "title": "Edital de Seleção para Alunos Regulares de Mestrado e Doutorado Stricto Sensu 2027.1",
+        "id": 270,
+        "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=270",
+        "date": "2026-10-22T00:00:00"
+    },
+    {
         "title": "Chamada Interna para Seleção e Indicação de Tese e Dissertação do PPGEEC para o PRÊMIO UFBA DE TESES E DISSERTAÇÕES ANO 2025",
         "id": 269,
         "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=269",
@@ -22,11 +28,5 @@
         "id": 266,
         "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=266",
         "date": "2026-08-05T00:00:00"
-    },
-    {
-        "title": "Resultado Final da Seleção de Alunos Especiais do Programa de Pós-Graduação em Engenharias Elétrica e de Computação da UFBA para o Semestre 2026.2",
-        "id": 264,
-        "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=264",
-        "date": "2026-07-13T00:00:00"
     }
 ]
