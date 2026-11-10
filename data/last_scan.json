@@ -1,5 +1,11 @@
 [
     {
+        "title": "Seminário de Autoavaliação e Planejamento Estratégico do PPGEEC 2026",
+        "id": 271,
+        "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=271",
+        "date": "2026-11-09T00:00:00"
+    },
+    {
         "title": "Edital de Seleção para Alunos Regulares de Mestrado e Doutorado Stricto Sensu 2027.1",
         "id": 270,
         "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=270",
@@ -22,11 +28,5 @@
         "id": 267,
         "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=267",
         "date": "2026-08-18T00:00:00"
-    },
-    {
-        "title": "Matrícula e oferta de Disciplinas para o semestre 2026.2",
-        "id": 266,
-        "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=266",
-        "date": "2026-08-05T00:00:00"
     }
 ]
