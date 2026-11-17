@@ -1,5 +1,11 @@
 [
     {
+        "title": "Palestra do Professor Eugênio Castelan (UFSC) - Invariância positiva e controle sob restrições - Técnicas de  projeto via programação linear e bilinear",
+        "id": 272,
+        "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=272",
+        "date": "2026-11-17T00:00:00"
+    },
+    {
         "title": "Seminário de Autoavaliação e Planejamento Estratégico do PPGEEC 2026",
         "id": 271,
         "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=271",
@@ -21,12 +27,6 @@
         "title": "Sessão de Defesa da Tese e Doutorado No. 65 do PPGEEC - Aplicação da EMD e VMD Associadas ao Operador de Energia Teager na Localização de Faltas em Linhas de Transmissão Baseada na Teoria das Ondas Viajantes",
         "id": 268,
         "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=268",
-        "date": "2026-08-18T00:00:00"
-    },
-    {
-        "title": "Sessão de Defesa da Dissertação de Mestrado No. 300 do PPGEEC -Uma Metodologia Prática para Localização Baseada em Marcadores Fiduciais e Controle LQR de um Quadrotor DJI Tello",
-        "id": 267,
-        "url": "http://www.ppgee.eng.ufba.br/main.php?page=noticia&id=267",
         "date": "2026-08-18T00:00:00"
     }
 ]
